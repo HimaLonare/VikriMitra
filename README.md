@@ -1,6 +1,7 @@
 # VikriMitra — E-Commerce Sales Analytics Chatbot
 
 VikriMitra is an AI-powered e-commerce sales analytics chatbot that converts plain-English business questions into database-backed analytics, interactive charts, and concise business insights.
+Demo Video Link : ( https://drive.google.com/file/d/1K86ovHqtWEAPXuol_ufOUSZIqUod7657/view?usp=sharing )
 
 ## Features
 
